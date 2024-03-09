@@ -1,0 +1,6 @@
+[MESSAGES CONTROL]
+disable=C0103
+
+[MASTER]
+extension-pkg-whitelist=
+good-names=i,j,k,ex,Run,_,ip
