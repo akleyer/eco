@@ -83,7 +83,7 @@ docker run ssl-checker
 
 To deploy on AWS EC2 with Terraform, define your infrastructure as code in a Terraform configuration file (e.g., main.tf). Example main.tf:
 
-```json
+```
 provider "aws" {
   region = "us-west-2"
 }
